@@ -42,7 +42,7 @@ Enter your password: **********
 
 ## Branches
 
-Branches that support daan include:
+Following branches use daan:
 
 | Branch     |    
 | :------------- |
